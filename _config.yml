@@ -1,7 +1,7 @@
 # Jekyll configuration
 
 name: Sean Payne
-description: Professional software engineer, amateur photographer, long-time tech & video game geek, destroyer of waffles.
+description: Professional software engineer, amateur photographer, long-time tech &amp; video game geek, destroyer of waffles.
 
 # url is currently only used only for the RSS feed in feed.xml
 url: http://seanpayne.name
