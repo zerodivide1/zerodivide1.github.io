@@ -21,3 +21,31 @@ of the time of July 2nd at 15:04:34 is not "the exact middle of the year", but r
 the "quarter marker of the current leap year cycle". In other words, on July 2nd at
 15:04:34, we would be crossing another 25% through the current leap year cycle (in my
 parlance, a "leap year cycle" is every 4 years).
+
+However, we do not usually look at the calendar and think about time in 4-year
+cycles. We usually subdivide time based on our non-scientific concept of a year,
+which means 365 days on a non-leap year and 366 days on a leap year. Thus, given
+this, the middle of the year - to the hour - is July 2nd at noon on a 365 day
+year. According to Wikipedia, we keep [July 2nd at noon as the middle of the year
+on leap years too](https://en.wikipedia.org/wiki/July_2).
+
+But, then there are timezones, so July 2nd at noon occurs at different times
+for different timezones. If you remained in the same timezone throughout the year,
+then the exact middle of the year would be July 2nd at noon for you, but if you
+were in Los Angeles and talked to someone in New York, you would find that they
+had their exact middle of the year 3 hours before you. To alleviate this discrepency
+across timezones, we could use a common timezone, UTC (or GMT), and just change
+the time for everyone depending on where you are in the world. Thus, if the exact
+middle of the year is July 2nd at 12:00 UTC, for myself living in the Los Angeles
+timezone, the middle of the year is July 2nd at 5AM (UTC-7 during summer time; or 4AM
+if you don't take into account Daylight Savings, which is UTC-8). So, depending on
+how you look at time, you could celebrate the middle of the year at either noon or
+whatever time noon in UTC is in your own timezone.
+
+So, six years ago, I sought to find the exact middle of the year, and over the
+last half decade, the concept of the "middle of the year" became complicated by
+leap years and seconds and timezones, and just the general perception of time.
+Though I may have missed this year's crossing into the last half of the year, I feel
+better in knowing that I was wrong, because being wrong gave me the opportunity to
+look back at the question, and gave me the opportunity to evaluate my findings
+in a broader context.
