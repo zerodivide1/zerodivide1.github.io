@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Exact Middle of the Year Redux"
-date: 2015-07-02 16:00:00 -0700
+date: 2015-07-02 10:45:00 -0700
 comments: true
 ---
 Over six years ago I wrote a post on my old Blogger blog about what I believed
