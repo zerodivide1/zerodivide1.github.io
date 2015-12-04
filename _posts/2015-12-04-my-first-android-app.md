@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My First Android App"
-date: 2015-12-04 14:00:00 -0700
+date: 2015-12-04 15:50:00 -0700
 comments: true
 ---
 Since I purchased my first Android device, the much-loved
