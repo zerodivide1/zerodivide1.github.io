@@ -38,3 +38,20 @@ my own home server, allowing me to develop custom services locally and spin
 them up on my home server for "production" use, or even use services
 "off-the-shelf", and with the recent releases for Docker on Windows or Mac,
 working with containers locally is now even easier than ever before.
+So this brings me to the rationale for considering the switch to a Mac: the OSX
+kernel is Unix-based (Mach to be specific), and contains at the heart of a
+system extremely close to that of a Linux-based system; it also has a very
+fast and un-intrusive UI with one feature that I have loved since I first
+worked it in very early versions of Windows and in most Linux UIs:
+multiple desktops. The other thing I have come to really appreciate about the
+MacBook I work with is its shear speed. Though I don't really like tight
+hardware integrations in general, on a laptop it only makes sense, and when the
+OS is designed & tested with specific hardware on a laptop in mind, the result
+can be very performant, and this is certainly the case with the laptop I work
+with. And finally, I have been generally unimpressed with Microsoft recently.
+They recently seem to be changing things for change-sake and not really
+improving things (much the same way Apple has been going about their offerings
+since Jobs passed away). In fact, its very telling that Microsoft is struggling
+as their flagship OS has undergone 2 major revisions in the span of time that
+I got the laptop I'm looking to replace, and I have yet to upgrade from Windows
+7 on it since I've seen no benefit to doing so.
