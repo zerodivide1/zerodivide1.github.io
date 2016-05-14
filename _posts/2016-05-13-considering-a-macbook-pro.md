@@ -62,13 +62,40 @@ I got the laptop I'm looking to replace, and I have yet to upgrade from Windows
 
 So, if I've been using Windows 7 since I got my last laptop and am still using
 it, why change at all at this point? Well, I'm starting to have problems:
-I'm having trouble with the power connector on the laptop (while
-system is on and plugged in, the power connector applies power and disconnects,
-causing the system to speed up and slow down a lot and does not allow the laptop
-to stay powered while its on), and the laptop can not keep up any more. Its slow,
-and despite my best efforts to increase speed, and applications I use on it
-thrash badly because core services are now consuming tons of memory (it has 8GB,
-but after startup I have only 4GB to use and I can't increase it further); also,
-trying to view the recorded videos from my Phantom 3, none of the players I have
-(VLC included) can handle the HD video that the Phantom 3 can record
-(1080p@60fps).
+I'm having trouble with the power connector on the laptop and it just can't keep
+up anymore. On the power connector side, while the system is on and plugged in,
+the power connector applies power and disconnects a short time later, causing
+the system to speed-step up and down a lot. Moreover, because of this
+frequent power connected-disconnected cycling, I can no longer use the laptop
+for extended periods of time since the battery can no longer charge and/or run
+off the AC power while the laptop is on. On the performance front, it has become
+slow, and, despite my best efforts to increase speed, and applications I use on
+it thrash badly because core services are now consuming tons of memory (it has
+8GB, but after startup I have only 4GB to use and I can't increase it further).
+Also, trying to view the recorded videos from my Phantom 3, none of the players
+I have on the machine (VLC included) can handle the HD video that the Phantom 3
+can record (1080p@60fps). In fact, Ashley's Surface Pro 3 performs better than
+it now. Unfortunately, it is to be expected of a 4-year-old laptop.
+
+So, you may be asking, why another laptop? Because my life is very dynamic. I
+visit meetups where I need my laptop to work or demonstrate things. I also
+sometimes bring my laptop to family functions to demo things to other geeky
+family members, or sometimes even try to rush-edit family photos to allow me to
+distribute them to family members while they are physically there with me.
+
+In conclusion, the reason I've been considering going to other other side isn't
+because everyone else is doing it or that the Apple offerings are superior or
+that its trendy. Its because my needs have grown, and currently Apple produces
+some of the most performant laptops I've seen to date - due greatly to the fact
+that the OSX operating system is _tuned_ to work with the hardware, and vice
+versa. And though I lose the ability to use much of the application library I've
+amassed over the years, I still end up losing it since some of the applications
+would no longer work on newer versions of Windows. But, for some of the major
+commercial applications I use (IntelliJ IDEA, Photoshop), I still have the
+ability to use them on OSX. As for Office? Well, Google Docs replaced that for
+me long ago. So unless I find a Windows-based laptop anytime soon that meets and
+exceeds my needs anytime soon, you might start seeing me sporting a Mac. But you
+won't see me donning a black turtleneck anytime soon - its just a means to an
+end, not a shift in preference. I still prefer Linux over anything else, but for
+UI and application library support, its frustratingly _still_ not there. Though
+maybe my next laptop will finally be Linux through-and-through.
