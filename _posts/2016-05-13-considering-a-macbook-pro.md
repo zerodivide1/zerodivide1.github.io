@@ -4,6 +4,12 @@ title: "I can't believe I'm saying this: I'm considering buying a MacBook Pro"
 date: 2016-05-13 17:00:00 -0800
 comments: true
 ---
+tl;dr:
+> Considering switching to a Mac because of the consistency of platform with the
+> environments I frequently interact with (\*nix systems), and MacBooks are some
+> of the best performing laptops I've ever seen, able to handle my current needs.
+> Though I still feel dirty even considering the platform switch.
+
 Just as the title says, recently I've been considering replacing my personal
 laptop with a MacBook Pro, and it makes me feel dirty. People who have known me
 for a long time or who have been reading my blog for a while know that I have
