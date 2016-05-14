@@ -18,6 +18,7 @@ of customization to suite my purposes: I started adding customizations around
 how I interact with the filesystem, and began adding more and more utility
 scripts to make my work system behave the way I needed it to accomplish the
 work I had to complete.
+
 Personally, I enjoy working inside of Linux environments. They are more
 reliable, cheaper to maintain and I work with them often both at home and at
 work, so they are very familiar to me. However, with my hobbies I need a robust
@@ -30,6 +31,7 @@ added flying drones to my set of personal hobbies (with a DJI Phantom 3 & other
 smaller drones, both for stunts and indoor flying). In all, my needs vary quite
 a bit, but a common theme exists in all cases: I need a fast system with quick
 access to various things, both through a UI and through the command line.
+
 Recently, I've also recently wanted an environment that is consistent with the
 environments I work with, both at work and at home, allowing me to "write-once-
 run-everywhere". Over the last few years I've been working a lot with
@@ -38,6 +40,7 @@ my own home server, allowing me to develop custom services locally and spin
 them up on my home server for "production" use, or even use services
 "off-the-shelf", and with the recent releases for Docker on Windows or Mac,
 working with containers locally is now even easier than ever before.
+
 So this brings me to the rationale for considering the switch to a Mac: the OSX
 kernel is Unix-based (Mach to be specific), and contains at the heart of a
 system extremely close to that of a Linux-based system; it also has a very
@@ -49,6 +52,7 @@ hardware integrations in general, on a laptop it only makes sense, and when the
 OS is designed & tested with specific hardware on a laptop in mind, the result
 can be very performant, and this is certainly the case with the laptop I work
 with. And finally, I have been generally unimpressed with Microsoft recently.
+
 They recently seem to be changing things for change-sake and not really
 improving things (much the same way Apple has been going about their offerings
 since Jobs passed away). In fact, its very telling that Microsoft is struggling
