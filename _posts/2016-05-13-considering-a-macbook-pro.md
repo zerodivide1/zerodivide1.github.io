@@ -59,3 +59,16 @@ since Jobs passed away). In fact, its very telling that Microsoft is struggling
 as their flagship OS has undergone 2 major revisions in the span of time that
 I got the laptop I'm looking to replace, and I have yet to upgrade from Windows
 7 on it since I've seen no benefit to doing so.
+
+So, if I've been using Windows 7 since I got my last laptop and am still using
+it, why change at all at this point? Well, I'm starting to have problems:
+I'm having trouble with the power connector on the laptop (while
+system is on and plugged in, the power connector applies power and disconnects,
+causing the system to speed up and slow down a lot and does not allow the laptop
+to stay powered while its on), and the laptop can not keep up any more. Its slow,
+and despite my best efforts to increase speed, and applications I use on it
+thrash badly because core services are now consuming tons of memory (it has 8GB,
+but after startup I have only 4GB to use and I can't increase it further); also,
+trying to view the recorded videos from my Phantom 3, none of the players I have
+(VLC included) can handle the HD video that the Phantom 3 can record
+(1080p@60fps).
