@@ -8,4 +8,4 @@ RUN apt-get update && \
 VOLUME /data
 WORKDIR /data
 
-CMD ["jekyll","serve","--baseurl=''"]
+CMD ["./run.sh"]
