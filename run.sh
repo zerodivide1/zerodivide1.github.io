@@ -1,4 +1,4 @@
 #!/bin/bash
 
 bundle install && \
-bundle exec jekyll serve --baseurl=''
+jekyll serve -H 0.0.0.0 --baseurl ''
