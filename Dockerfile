@@ -8,4 +8,6 @@ RUN apt-get update && \
 VOLUME /data
 WORKDIR /data
 
+EXPOSE 4000
+
 CMD ["./run.sh"]
