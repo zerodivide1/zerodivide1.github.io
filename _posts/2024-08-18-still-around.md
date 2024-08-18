@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Still around"
-date: 2024-08-18 14:20:00 -0800
+date: 2024-08-18 14:20:00 -0700
 comments: false
 ---
 
