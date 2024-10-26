@@ -2,8 +2,9 @@ version: '3.1'
 
 services:
   site:
+    platform: linux/amd64
     command: jekyll s --drafts --future --force_polling
-    image: jekyll/jekyll:4.0
+    image: jekyll/jekyll:latest
     volumes:
       - .:/srv/jekyll
     ports:
