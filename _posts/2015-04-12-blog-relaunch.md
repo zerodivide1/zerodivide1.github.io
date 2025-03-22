@@ -3,6 +3,7 @@ layout: post
 title: "Blog Relaunch (Again)"
 date: 2015-04-12 14:00:00 -0700
 comments: false
+categories: [ updates ]
 ---
 A few weeks ago, I revisited the thought of how I set up my blog and the rationale about why I chose to run it all
 from a VM on [DigitalOcean](https://digitalocean.com) running a couple Docker containers, one with [Ghost](https://ghost.org/)

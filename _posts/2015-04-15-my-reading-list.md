@@ -2,7 +2,8 @@
 layout: post
 title: "My Reading List"
 date: 2015-04-15 20:00:00 -0700
-comments: true
+comments: false
+categories: [ thoughts ]
 ---
 Over the last few years, I've amassed a pretty large repository of knowledge of technologies, tools and techniques within
 my profession. A lot of people have often wondered how I came to know so much, but the truth is, it was actually really

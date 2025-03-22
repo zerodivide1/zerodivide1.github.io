@@ -3,19 +3,19 @@
 layout: list
 
 # The title of the tag's page.
-title: Updates
+title: Tech
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: updates
+slug: Tech
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  Posts related to some personal events and updates.
+  Posts containing thoughts and opinions related to the tech industry.
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
 
 # Exclude this example category from the sitemap.
 # DON'T USE THIS SETTING IN YOUR CATEGORIES!
-#sitemap: false
+#sitemap: true
 ---

@@ -2,7 +2,8 @@
 layout: post
 title: "The End of An Exciting Year"
 date: 2015-12-31 22:00:00 -0700
-comments: true
+comments: false
+categories: [ updates ]
 ---
 Its the last night of 2015, I have a drink of the alcoholic type origin and its
 time for me to write my annual post reminiscing about this past year. And quite

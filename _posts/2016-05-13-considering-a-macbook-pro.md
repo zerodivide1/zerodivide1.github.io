@@ -2,7 +2,8 @@
 layout: post
 title: "I can't believe I'm saying this: I'm considering buying a MacBook Pro"
 date: 2016-05-13 16:30:00 -0800
-comments: true
+comments: false
+categories: [ tech ]
 ---
 tl;dr:
 > Considering switching to a Mac because of the consistency of platform with the

@@ -2,7 +2,8 @@
 layout: post
 title: "Know Your Tools"
 date: 2015-05-23 14:00:00 -0700
-comments: true
+comments: false
+categories: [ development, tech ]
 ---
 A few weeks ago I was given the opportunity to give a presentation to the dev
 team at work on [Docker](http://www.docker.com) and how it could help us from

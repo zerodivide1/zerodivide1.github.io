@@ -2,10 +2,12 @@
 layout: post
 title: "Pheobe Tesla Model 3 Wallpaper"
 date: 2019-09-02 13:15:00 -0800
-comments: true
+comments: false
 
 image:
   path: /assets/img/blog/wallpaper_pheobe_hero_wide.jpg
+
+categories: [ photography ]
 ---
 
 I took a couple pictures of Pheobe, my red Tesla Model 3 yesterday evening and

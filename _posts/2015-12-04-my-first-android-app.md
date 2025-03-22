@@ -2,7 +2,8 @@
 layout: post
 title: "My First Android App"
 date: 2015-12-04 15:50:00 -0700
-comments: true
+comments: false
+categories: [ development ]
 ---
 Since I purchased my first Android device, the much-loved
 [Nexus One](https://en.wikipedia.org/wiki/Nexus_One), I have had a desire to

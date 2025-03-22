@@ -2,7 +2,8 @@
 layout: post
 title: "The Exact Middle of the Year Redux"
 date: 2015-07-02 10:45:00 -0700
-comments: true
+comments: false
+categories: [ thoughts ]
 ---
 Over six years ago I wrote a post on my old Blogger blog about what I believed
 the [exact middle of the year was](http://blogger.seanpayne.name/2009/06/exact-middle-of-year-numerical-debate.html).
