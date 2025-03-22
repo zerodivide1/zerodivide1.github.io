@@ -44,7 +44,7 @@ author:
   name:                Sean Payne
   email:               seantpayne@gmail.com
   # # Used by `jekyll-seo-tag`:
-  # twitter:             <username>
+  twitter:             zero_divide_1
 
 # Add links to the sidebar.
 menu:
@@ -349,8 +349,8 @@ google_site_verification: google63c8308dd1337086
 #   yandex:              <verification-id>
 
 # Used for twitter cards
-# twitter:
-#   username:            <username>
+twitter:
+   username:            zero_divide_1
 
 # Used for facebook open graph
 # facebook:
