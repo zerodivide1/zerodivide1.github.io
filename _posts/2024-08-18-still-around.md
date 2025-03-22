@@ -3,6 +3,7 @@ layout: post
 title: "Still around"
 date: 2024-08-18 14:20:00 -0700
 comments: false
+categories: [ updates ]
 ---
 
 Yes, I'm still around, though I'm less active here than I used to be. As I get older, I realize how the time I have
