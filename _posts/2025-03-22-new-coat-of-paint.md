@@ -9,7 +9,7 @@ categories: [ updates ]
 In [my last post]({% post_url 2024-08-18-still-around %}) I had mentioned that I
 wanted to update this website's theme, and admittedly that task had been put on
 the back-burner for quite a while. I had previously looked at different themes
-for Jekyll and come across [Hydejack](hj) and had really liked
+for Jekyll and come across [Hydejack][hj] and had really liked
 it. Unfortunately, at the time, migrating to it would have taken a long time and
 I really didn't have a lot of time to expend on it.
 
@@ -18,7 +18,7 @@ After some musings about it, I'd finally decided to sit down for nearly a day
 migrate things across.
 
 The first challenge I ran across was related to my old Docker container that I
-used to build and preview the site. For some reason, the [official Jekyll Docker container](jdc)
+used to build and preview the site. For some reason, the [official Jekyll Docker container][jdc]
 no longer wanted to function and would crash during build. I attributed it to
 the fact that I was trying to run it on my Apple Silicon Macbook Pro (M2 Max),
 and there may have been some sort of MacOS update that broke the container
@@ -28,7 +28,7 @@ the investigation and instead focus on trying to get _some_ sort of container
 running with Jekyll so that I could build and preview changes.
 
 Not wanting to spend a ton of time figuring out how to create a container with
-Ruby and Jekyll, I came across this [Gist](ghgj) containing a useable
+Ruby and Jekyll, I came across this [Gist][ghgj] containing a useable
 `Dockerfile` that I could quickly build and run Jekyll. After a few tweaks to
 use a slightly more-recent version of Ruby and Jekyll (`3.2.2` and `4.4.1`,
 respectively), and adding a simple script to update and call `jekyll serve`, I
@@ -37,13 +37,13 @@ my site locally.
 
 After that side-quest, I was finally able to start working on migrating the
 site to a new theme. Initially I was hoping to use some of the git-fu techniques
-from this [StackOverflow post](so1), but I ran into some significant issues
+from this [StackOverflow post][so1], but I ran into some significant issues
 where some parts migrated fine but then individual posts were looked at, the old
 theme would appear for the post. Not great.
 
 Again, I didn't want to side-quest with trying to figure out what was going on,
 I decided to shortcut and create an orphan branch, used
-[Hydejack's starter kit](hsk) and then just start moving over my posts, assets
+[Hydejack's starter kit][hsk] and then just start moving over my posts, assets
 and other things into the site, making sure the Jekyll build worked with each
 major step.
 
@@ -59,7 +59,7 @@ attribute on links to the Mastodon profiles in order to verify ownership. This
 allows Mastodon to automatically verify that you own a page since the link listed
 in your Mastodon profile matches the link to your profile on your page. Its a
 neat trick to allow decentralized ownership validation without human intervention.
-The problem here, though, was that the [Hydejack template for social media links](htsml)
+The problem here, though, was that the [Hydejack template for social media links][htsml]
 did not know about how to add the `rel="me"` attribute for Mastodon links.
 
 I knew I needed to compensate for this, but I've never written Ruby or worked
