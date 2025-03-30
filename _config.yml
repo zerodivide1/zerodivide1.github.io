@@ -71,7 +71,7 @@ copyright:             © 2025 Sean Payne. All rights reserved.
 permalink:              /:year/:month/:title
 
 # Pagination configuration (used by the `blog` layout)
-paginate:              10
+paginate:              5
 paginate_path:         /:num/
 
 
