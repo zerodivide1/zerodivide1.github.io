@@ -243,6 +243,10 @@ Generative AI, but also the journalists and creators who may be better equipped
 with the skills to translate these ideas into formats that are more easily
 digested so that people can elevate their personal security hygiene.
 
+I encourage others who would like to have a conversation on this to comment on
+[this Mastodon post](https://mastodon.social/@seantpayne/114260889685801547)
+related to this post.
+
 
 [yt-tiri]: https://www.youtube.com/@ThereIRuinedIt
 [yt-fukw]: https://www.youtube.com/watch?v=qM4DC2fsNAE
