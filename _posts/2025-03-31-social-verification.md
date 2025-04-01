@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Two Factory Social Verification in the World of AI"
+title: "Two Factor Social Verification in the World of AI"
 date: 2025-03-31 21:35:00 -0700
 comments: false
 categories: [ thoughts, tech, ai, security ]
 ---
 
-# Two Factory Social Verification in the World of AI
+# Two Factor Social Verification in the World of AI
 
 Recently I've been watching the increasing rate of advancement in generative AI
 with a mixture of amazement and anxiety. I won't get into the debates about
