@@ -316,6 +316,8 @@ include:
   - _routes.json
   - .well-known
   - LICENSE.md
+  - google63c8308dd1337086.html
+  - keepagram_privacy.html
 
 
 # Plugins
