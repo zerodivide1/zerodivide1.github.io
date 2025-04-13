@@ -20,5 +20,5 @@ Here are a couple that I can share. Please do me a solid and keep the attributio
 of the image. I did my best to keep the watermark as small in the bottom-left
 corner as I could - at least keep it there if you end up re-sharing it. Thanks!
 
-* [4k HD Widescreen](/assets/wallpaper-pheobe-4k-wide.png)
-* [HD Vertical for mobiles](/assets/wallpaper-pheobe-HD-vert.png)
+* [4k HD Widescreen](/assets/img/blog/wallpaper-pheobe-4k-wide.png)
+* [HD Vertical for mobiles](/assets/img/blog/wallpaper-pheobe-HD-vert.png)
