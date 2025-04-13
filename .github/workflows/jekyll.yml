@@ -66,5 +66,6 @@ jobs:
             -u ${{ secrets.NTFY_CRED }} \
             -H "Title: github-pages" \
             -H "Content-Type: text/plain" \
+            -H "Actions: view, Open, ${{ secrets.NTFY_OPEN_URL }}, clear=true" \
             -d $'Repo: ${{ github.repository }}\nCommit: ${{ github.sha }}\nRef: ${{ github.ref }}\nStatus: ${{ job.status }}' \
             ${{ secrets.NTFY_URL }}
