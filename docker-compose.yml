@@ -2,7 +2,7 @@ version: '3.1'
 
 services:
   site:
-    command: "bundle install ; bundle exec jekyll serve -l --livereload-port 4001 -H 0.0.0.0 --drafts --future --force_polling"
+    #command: "bundle install ; bundle exec jekyll serve -l --livereload-port 4001 -H 0.0.0.0 --drafts --future --force_polling"
     image: docker-jekyll-ghpages:latest
     volumes:
       - .:/srv/jekyll
