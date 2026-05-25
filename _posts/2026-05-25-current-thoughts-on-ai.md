@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My Current Thoughts on AI"
-date: 2026-05-25 20:00:00 -0800
+date: 2026-05-25 14:00:00 -0800
 comments: false
 categories:
   - updates
