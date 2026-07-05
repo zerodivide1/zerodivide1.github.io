@@ -1,4 +1,4 @@
-version: '3.1'
+version: "3.1"
 
 services:
   site:
@@ -6,6 +6,14 @@ services:
     image: docker-jekyll-ghpages:latest
     volumes:
       - .:/srv/jekyll
+    #ports:
+    #- 4000:4000
+    #- 4001:4001
+
+  caddy:
+    image: caddy:latest
     ports:
       - 4000:4000
       - 4001:4001
+    volumes:
+      - ./Caddyfile:/etc/caddy/Caddyfile

@@ -1,0 +1,15 @@
+:4000 {
+    handle /api/* {
+        reverse_proxy host.docker.internal:8787
+    }
+
+    handle /* {
+        reverse_proxy site:4000
+    }
+}
+
+:4001 {
+    handle /* {
+        reverse_proxy site:4001
+    }
+}
