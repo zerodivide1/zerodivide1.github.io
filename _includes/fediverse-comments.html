@@ -1,8 +1,13 @@
-<section class="page__comments">
-  <p>You can use your <a href="https://joinmastodon.org" target="_blank">Mastodon</a> or other ActivityPub account to comment on this post by replying to the associated <a class="link" href="#" target="_blank" id="APLinkAnchor">post</a>.</p>
-  <p><div class="tooltip"><button onclick="copyAPLink()" onmouseout="outFunc()"><span class="tooltiptext" id="APLinkButton">Copy to clipboard</span>Copy link</button></div><input type="text" value="#" id="APLinkText"> and search for it on your ActivityPub/Mastodon instance to reply!</p>
+<sect class="page__comments">
+  <p>You can use your <a href="https://joinmastodon.org" target="_blank">Mastodon</a> or other ActivityPub account to comment on this post by replying to the associated <a class="link" href="#" target="_blank" id="APLinkAnchor">post</a>. Copy the following and search for it on your ActivityPub/Mastodon instance to reply!</p>
+  <p>
+    <div class="input-container">
+        <input type="text" id="APLinkText" value="Loading...">
+        <button class="copy-btn" onclick="copyAPLink()" id="APLinkButton">Copy</button>
+    </div>
+  </p>
   <p id="mastodon-comments-list">
-    <button id="load-comment" class="btn btn--twitter">Load comments from Mastodon</button>
+    <button id="load-comment" class="btn btn--twitter">Click here to load comments from Mastodon</button>
   </p>
   <noscript>You have to allow JavaScript to view the comments.</p></noscript>
   <!--<script src="/assets/js/purify.min.js"></script>-->
@@ -13,7 +18,7 @@
       copyText.setSelectionRange(0, 99999);
       navigator.clipboard.writeText(copyText.value);
       var tooltip = document.getElementById("APLinkButton");
-      tooltip.innerHTML = "Copied: " + copyText.value;
+      tooltip.innerHTML = "Copied";
     }
     function outFunc() {
       var tooltip = document.getElementById("APLinkButton");

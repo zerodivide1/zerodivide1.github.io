@@ -1,1 +1,46 @@
 <!-- Add HTML tags here to be included in the head. You can delete the below: -->
+
+<style>
+    /* Container holds both elements together */
+    .input-container {
+        position: relative;
+        display: inline-block;
+        width: 400px;
+    }
+
+    /* The actual text input field */
+    .input-container input {
+        width: 100%;
+        padding: 10px;
+        /* Extra right padding so text doesn't hide behind the button */
+        padding-right: 70px;
+        box-sizing: border-box;
+        border: 1px solid var(--accent-color-faded)
+        border-radius: 4px;
+        font-size: 14px;
+    }
+
+    .input-container input:focus {
+        border-color: var(--accent-color);
+    }
+
+    /* The copy button locked to the right side */
+    .input-container .copy-btn {
+        position: absolute;
+        right: 5px;
+        top: 50%;
+        transform: translateY(-50%);
+        background-color: var(--accent-color-faded);
+        color: var(--body-color);
+        border: none;
+        padding: 6px 12px;
+        border-radius: 4px;
+        cursor: pointer;
+        font-size: 12px;
+    }
+
+    /* The copy button hover effect */
+    .input-container .copy-btn:hover {
+        background-color: var(--accent-color);
+    }
+</style>
