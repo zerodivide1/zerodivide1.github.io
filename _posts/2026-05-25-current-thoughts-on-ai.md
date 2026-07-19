@@ -3,7 +3,7 @@ layout: post
 title: "My Current Thoughts on AI"
 date: 2026-05-25 13:00:00-0800
 comments:
-  enabled: true
+  enabled: false
   key: 3C507060-82D8-4E85-ADE9-28A7F20F5EFC
 categories:
   - updates
