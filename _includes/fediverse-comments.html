@@ -33,7 +33,7 @@
            .replace(/'/g, "&#039;");
     }
 
-    const pageKey = "{{ page.comments.key }}";
+    var pageKey = "{{ page.comments.key }}";
     console.debug("Page comments key: " + pageKey);
 
     if(pageKey?.trim().length > 0) {
