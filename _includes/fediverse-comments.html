@@ -46,9 +46,7 @@
           console.debug("Post comments metadata:", metadata);
           if(metadata.success) {
             var link = metadata.data.host + '/statuses/' + metadata.data.postId;
-            //Set link data
             document.getElementById("APLinkAnchor").href = link;
-            //Set input text with link
             document.getElementById("APLinkText").value = link;
 
             document.getElementById("load-comment").addEventListener("click", function() {
